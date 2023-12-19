@@ -1,0 +1,67 @@
+body{
+    height: 40px;
+    background-color: red;
+}
+.Box{
+    margin: 30px;
+    border: 20px;
+    width: 92%;
+    height: 60px;
+    padding: 20px;
+    margin-top:25px;
+    font-size: 30px;
+    padding-bottom: 40px;
+    color: #137909;
+    background: #eebc65;
+
+}
+
+    
+
+.Box1{
+    margin: 30px;
+    border: 20px;
+    width: 40%;
+    height: 250px;
+    padding: 25px;
+    padding-top: 10px;
+    padding-bottom: 15px ;
+    background: #eebc65;
+    float: left;
+    
+
+}
+.Box2{
+    margin: 30px;
+    border: 20px;
+    width: 40%;
+    height: 250px;
+    padding: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px ; 
+    background: #eebc65;
+    float: right;
+
+}
+
+.Box4{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 200px;
+    border: 75px;
+    width: 90%;
+    height: 700px;
+    background-color: #f7d497;
+    padding: 5px;
+}
+.Box3{
+    margin-top: 450px;
+    margin-left:30px ;
+    Width:95%;
+    height: 30px;
+    padding-top: 3px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    background: #eebc65;
+
+}
